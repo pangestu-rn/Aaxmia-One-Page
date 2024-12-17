@@ -1,0 +1,148 @@
+/*
+Color: #87CEEB;
+*/
+
+/* Color */
+.navigation-bar ul li.active a, .navigation-bar ul li a:hover,.box-title h1 span {
+	color: #87CEEB;
+}
+/* Border Color */
+.navigation-bar,.cbp-l-filters-button .cbp-filter-item.cbp-filter-item-active,.box-title.blue-border:before,
+.border-img:before {
+	border-color: #87CEEB !important;
+}
+.cbp-l-filters-button .cbp-filter-counter:after {
+	border-top: 4px solid #87CEEB !important;
+}
+/* Background Color */
+ul.horizontal.blue li:before,.cbp-l-filters-button .cbp-filter-item.cbp-filter-item-active,
+.cbp-l-filters-button .cbp-filter-counter,.pricing-table.blue:hover .price-head, .pricing-table.blue.active .price-head,
+.vertical-blog:hover .vb-desc,.horizontal-contact-widget ul li:hover i,.slide-overlay > div:before,.dots-holder ul li.active,
+div.title > h2:before,div.title h2:after,div.title > h2 > span:before,div.title h2 > span:after,ul.horizontal li:before {
+	background: #87CEEB !important;
+}
+/* Background Opacity */
+.services-box.blue-box:hover,.cbp.re-size.cbp-caption-zoom .cbp-caption-activeWrap {
+	background: rgba(135, 206, 235, 0.8);
+}
+/* Box Shadow */
+.services-box.blue-box {
+	-webkit-box-shadow: 0px 0px 1px 0px #87CEEB;
+	-moz-box-shadow: 0px 0px 1px 0px #87CEEB;
+	box-shadow: 0px 0px 1px 0px #87CEEB;
+}
+.btn.btn-blue-grey-border:hover,.social.team a:hover {
+	background: #87CEEB;
+	border-color: #87CEEB;
+}
+.btn.btn-blue-grey-border,a.left-control:hover, a.right-control:hover,.contact-form button, .contact-form .btn.btn-white {
+	color: #87CEEB;
+}
+.color-blue,.social.team a,.btn.btn-blue:hover,.horizontal-contact-widget i {
+	color: #87CEEB;
+}
+a.test-controls:hover, a.test-controls:hover,.horizontal-contact-widget h5 {
+	color: #87CEEB !important;
+}
+.btn.btn-blue {
+	background: #87CEEB;
+	border: 1px solid #87CEEB;
+}
+.contact-form input:focus, .contact-form input:hover, .contact-form textarea:hover, .contact-form textarea:hover {
+	border-bottom-color: #87CEEB;
+}
+.navigation-bar.cyan-nav ul li.active a, .navigation-bar.cyan-nav ul li a:hover,
+.cbp-l-filters-button.flat-filters .cbp-filter-item:after {
+	color: #87CEEB;
+}
+.color-cyan,.flat-counters:hover i,.services-box.flat:hover h4, .services-box.flat:hover i,.flat-steps .holder h5,
+.flat-steps .holder i,.btn.btn-cyan:hover,.ribbon-btn .btn,.team-holder.flat .overlay .social a:hover {
+	color: #87CEEB;
+}
+.flat-steps:hover .holder h5,.flat-steps:hover .holder i {
+	color: #fff;
+}
+.slider-cyan .dots-holder ul li.active,.dual-title h2:before,.services-box.flat i:after,.flat-steps:hover,.btn.btn-cyan,
+.flat-control li .holder:after {
+	background: #87CEEB;
+}
+.lb-border-img img,.flat-counters:hover,.flat-counters:after,.cbp.re-size.re-size2 .cbp-caption:before,.btn.btn-cyan,
+.team-holder.flat .overlay,.flat-control li.active img,.flat-carousel {
+	border-color: #87CEEB;
+}
+.cbp-l-filters-button.flat-filters .cbp-filter-counter {
+	background-color: #87CEEB !important;
+}
+.cbp-l-filters-button.flat-filters .cbp-filter-counter:after {
+	border-top: 4px solid #87CEEB !important;
+}
+.cbp-l-filters-button.flat-filters .cbp-filter-item.cbp-filter-item-active {
+	color: #87CEEB !important;
+}
+.pricing-table.active.cyan, .pricing-table.cyan:hover {
+	-webkit-box-shadow: 10px 0px 0px 0px #87CEEB;
+	-moz-box-shadow: 10px 0px 0px 0px #87CEEB;
+	box-shadow: 10px 0px 0px 0px #87CEEB;
+}
+.pricing-table.active.cyan .price-footer, .pricing-table.cyan:hover .price-footer,.horizontal-contact-widget.flat-widget i,
+.map-overlay .form-third {
+	background: #87CEEB;
+}
+.pricing-table.cyan .btn,.pricing-table.cyan:hover .price-head h2, .pricing-table.cyan:hover .price-head h4, .pricing-table.active.cyan .price-head h2,
+.pricing-table.active.cyan .price-head h4,.flat-posts:hover small,.flat-footer i,.footer .widget ul li a:hover,
+.copyright.cp3 .social a:hover {
+	color: #87CEEB;
+}
+.img-holder:before {
+	-webkit-box-shadow: inset -10px -10px 0px 0px #87CEEB;
+	-moz-box-shadow: inset -10px -10px 0px 0px #87CEEB;
+	box-shadow: inset -10px -10px 0px 0px #87CEEB;
+}
+.contact-form.flat-form input:focus, .contact-form.flat-form input:hover, .contact-form.flat-form textarea:hover, .contact-form.flat-form textarea:hover {
+	border-bottom-color: #87CEEB;
+}
+.horizontal-contact-widget.flat-widget h5,.process-block:hover i, .process-block.active i {
+	color: #87CEEB !important;
+}
+.widget_wysija input[type="submit"] {
+	background: #87CEEB;
+	border: 2px solid #87CEEB;
+}
+.process-block:hover:before, .process-block.active:before {
+	-webkit-box-shadow: inset 0px 0px 1px 1px #87CEEB;
+	-moz-box-shadow: inset 0px 0px 1px 1px #87CEEB;
+	box-shadow: inset 0px 0px 1px 1px #87CEEB;
+}
+.cbp-l-caption-body:before,.team-holder .overlay .middle > div:before,.ribbon {
+	background: #87CEEB;
+}
+.btn {
+	background: #87CEEB;
+	border-color: #87CEEB;
+}
+.btn:hover, .btn:focus, .btn:active,.services-box:hover i, .services-box:hover h4,.team-holder .overlay .social a:hover,
+.cbp.cbp-slider-edge .cbp-nav-next:hover:after, .cbp.cbp-slider-edge .cbp-nav-prev:hover:after,
+.cbp.cbp-slider-edge .cbp-nav-next:hover:after, .cbp.cbp-slider-edge .cbp-nav-prev:hover:after,
+.pricing-table:hover .price-head h2, .pricing-table:hover .price-head h4, .pricing-table.active .price-head h2,
+.pricing-table.active .price-head h4,.social a:hover,.cbp-spmenu ul li:hover a, .cbp-spmenu ul li.active a,.banner h1,.color-red,
+blockquote:before,.social-share a:hover,#js-grid-slider-testimonials:before,#js-grid-slider-testimonials .cbp-wrapper-outer:after,
+.testimonials-blue:before,.flat-carousel .carousel-inner:before,.flat-carousel .carousel-inner:after {
+	color: #87CEEB;
+}
+.cbp.cbp-slider-edge .cbp-nav-next:hover, .cbp.cbp-slider-edge .cbp-nav-prev:hover {
+	color: #87CEEB;
+	border-color: #87CEEB;
+}
+.ribbon:before, .ribbon:after {
+	border-bottom: 30px solid #87CEEB;
+}
+.ribbon:before, .ribbon:after {
+	border-bottom: 30px solid #87CEEB;
+}
+.form-holder .form-control:hover, .form-holder .form-control:active, .form-holder .form-control:focus {
+	border-color: #87CEEB;
+	color: #87CEEB;
+}
+.contact-widget {
+	background: #87CEEB;
+}

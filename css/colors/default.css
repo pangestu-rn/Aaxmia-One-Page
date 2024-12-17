@@ -1,0 +1,117 @@
+/*
+Color: #ff3a4c;
+*/
+
+/* Color */
+.navigation-bar ul li.active a, .navigation-bar ul li a:hover,.box-title h1 span {
+    color: #ff3a4c;
+}
+/* Border Color */
+.navigation-bar,.cbp-l-filters-button .cbp-filter-item.cbp-filter-item-active,.box-title.blue-border:before {
+    border-color: #ff3a4c !important;
+}
+.cbp-l-filters-button .cbp-filter-counter:after {
+    border-top: 4px solid #ff3a4c !important;
+}
+/* Background Color */
+ul.horizontal.blue li:before,.cbp-l-filters-button .cbp-filter-item.cbp-filter-item-active,
+.cbp-l-filters-button .cbp-filter-counter,.pricing-table.blue:hover .price-head, .pricing-table.blue.active .price-head,
+.vertical-blog:hover .vb-desc,.horizontal-contact-widget ul li:hover i {
+    background: #ff3a4c !important;
+}
+/* Background Opacity */
+.services-box.blue-box:hover,.cbp.re-size.cbp-caption-zoom .cbp-caption-activeWrap {
+    background: rgba(255, 58, 76, 0.80);
+}
+/* Box Shadow */
+.services-box.blue-box {
+    -webkit-box-shadow: 0px 0px 1px 0px #ff3a4c;
+    -moz-box-shadow: 0px 0px 1px 0px #ff3a4c;
+    box-shadow: 0px 0px 1px 0px #ff3a4c;
+}
+.btn.btn-blue-grey-border:hover,.social.team a:hover {
+    background: #ff3a4c;
+    border-color: #ff3a4c;
+}
+.btn.btn-blue-grey-border,a.left-control:hover, a.right-control:hover,.contact-form button, .contact-form .btn.btn-white {
+    color: #ff3a4c;
+}
+.color-blue,.social.team a,.btn.btn-blue:hover,.horizontal-contact-widget i {
+    color: #ff3a4c;
+}
+.testimonials-blue:before {
+    background: url(../../images/left-quotes.png) no-repeat center top;
+}
+a.test-controls:hover, a.test-controls:hover,.horizontal-contact-widget h5 {
+    color: #ff3a4c !important;
+}
+.btn.btn-blue {
+    background: #ff3a4c;
+    border: 1px solid #ff3a4c;
+}
+.contact-form input:focus, .contact-form input:hover, .contact-form textarea:hover, .contact-form textarea:hover {
+    border-bottom-color: #ff3a4c;
+}
+.navigation-bar.cyan-nav ul li.active a, .navigation-bar.cyan-nav ul li a:hover,
+.cbp-l-filters-button.flat-filters .cbp-filter-item:after {
+    color: #ff3a4c;
+}
+.color-cyan,.flat-counters:hover i,.services-box.flat:hover h4, .services-box.flat:hover i,.flat-steps .holder h5,
+.flat-steps .holder i,.btn.btn-cyan:hover,.ribbon-btn .btn,.team-holder.flat .overlay .social a:hover {
+    color: #ff3a4c;
+}
+.flat-steps:hover .holder h5,.flat-steps:hover .holder i {
+    color: #fff;
+}
+.slider-cyan .dots-holder ul li.active,.dual-title h2:before,.services-box.flat i:after,.flat-steps:hover,.btn.btn-cyan,
+.flat-control li .holder:after {
+    background: #ff3a4c;
+}
+.lb-border-img img,.flat-counters:hover,.flat-counters:after,.cbp.re-size.re-size2 .cbp-caption:before,.btn.btn-cyan,
+.team-holder.flat .overlay,.flat-control li.active img,.flat-carousel {
+    border-color: #ff3a4c;
+}
+.cbp-l-filters-button.flat-filters .cbp-filter-counter {
+    background-color: #ff3a4c !important;
+}
+.cbp-l-filters-button.flat-filters .cbp-filter-counter:after {
+    border-top: 4px solid #ff3a4c !important;
+}
+.cbp-l-filters-button.flat-filters .cbp-filter-item.cbp-filter-item-active {
+    color: #ff3a4c !important;
+}
+.flat-carousel .carousel-inner:before {
+    background: url(../../images/left-quotes.png) no-repeat left top;
+}
+.flat-carousel .carousel-inner:after {
+    background: url(../../images/right-quotes.png) no-repeat right top;
+}
+.pricing-table.active.cyan, .pricing-table.cyan:hover {
+    -webkit-box-shadow: 10px 0px 0px 0px #ff3a4c;
+    -moz-box-shadow: 10px 0px 0px 0px #ff3a4c;
+    box-shadow: 10px 0px 0px 0px #ff3a4c;
+}
+.pricing-table.active.cyan .price-footer, .pricing-table.cyan:hover .price-footer,.horizontal-contact-widget.flat-widget i,
+.map-overlay .form-third {
+    background: #ff3a4c;
+}
+.pricing-table.cyan .btn,.pricing-table.cyan:hover .price-head h2, .pricing-table.cyan:hover .price-head h4, .pricing-table.active.cyan .price-head h2,
+.pricing-table.active.cyan .price-head h4,.flat-posts:hover small,.flat-footer i,.footer .widget ul li a:hover,
+.copyright.cp3 .social a:hover {
+    color: #ff3a4c;
+}
+.img-holder:before {
+    -webkit-box-shadow: inset -10px -10px 0px 0px #ff3a4c;
+    -moz-box-shadow: inset -10px -10px 0px 0px #ff3a4c;
+    box-shadow: inset -10px -10px 0px 0px #ff3a4c;
+}
+.contact-form.flat-form input:focus, .contact-form.flat-form input:hover, .contact-form.flat-form textarea:hover, .contact-form.flat-form textarea:hover {
+    border-bottom-color: #ff3a4c;
+}
+.horizontal-contact-widget.flat-widget h5 {
+    color: #ff3a4c !important;
+}
+.widget_wysija input[type="submit"] {
+    background: #ff3a4c;
+    border: 2px solid #ff3a4c;
+}
